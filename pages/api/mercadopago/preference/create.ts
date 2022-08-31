@@ -31,12 +31,12 @@ const create = async (req: NextApiRequest, res: NextApiResponse) => {
       }
     ],
     back_urls: {
-      success: 'http://localhost:3000/status/success',
-      pending: 'http://localhost:3000/status/pending',
-      failure: 'http://localhost:3000/status/failure'
-      // success: `http://${String(process.env.PRODUCTION_URL)}/status/success`,
-      // pending: `http://${String(process.env.PRODUCTION_URL)}/status/pending`,
-      // failure: `http://${String(process.env.PRODUCTION_URL)}/status/failure`
+      // success: 'http://localhost:3000/status/success',
+      // pending: 'http://localhost:3000/status/pending',
+      // failure: 'http://localhost:3000/status/failure'
+      success: `https://${String(process.env.PRODUCTION_URL)}/status/success`,
+      pending: `https://${String(process.env.PRODUCTION_URL)}/status/pending`,
+      failure: `https://${String(process.env.PRODUCTION_URL)}/status/failure`
     },
     notification_url: '',
     payment_methods: {
