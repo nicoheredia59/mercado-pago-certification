@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Español
 
 ### Requisitos completados
-- [✅] Metodo de pago visa exluido en excluded_payment_methods
+- [✅] Metodo de pago visa excluido en excluded_payment_methods
 - [❌] WebHooks
 - [✅] Id Integradod
 - [✅] Datos del usuario de prueba agregados
