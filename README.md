@@ -32,3 +32,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Español
+
+### Requisitos completados
+- [✅] Metodo de pago visa exluido en excluded_payment_methods
+- [❌] WebHooks
+- [✅] Id Integradod
+- [✅] Datos del usuario de prueba agregados
+- [✅] Datos del producto añadidos
+- [✅] Back_urls añadidas
+
+
+## English
+### Completed requirements
+- [✅] Add Visa cards to excluded_payment_methods
+- [❌] WebHooks
+- [✅] Integrator Id
+- [✅] Add user test data provided by Mercado Pago
+- [✅] Add product data
+- [✅] Add back_urls properly
